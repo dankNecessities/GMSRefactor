@@ -1,2 +1,2 @@
 # GMSRefactor
-Garage Management System in Pyside6
+Garage Management System in Django and Pyside6
